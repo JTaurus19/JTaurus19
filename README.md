@@ -1,4 +1,4 @@
 ### Hi there, I'm Ivan T. 👋
-Developer, freelancer, Shardik founder.
+Developer, freelancer, Costa Blanca Geeks founder.
 
-http://shardik.com
+http://costablancageeks.io
